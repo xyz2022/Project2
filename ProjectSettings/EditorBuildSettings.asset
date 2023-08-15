@@ -11,4 +11,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/ML-Agents/Examples/Crawler/Scenes/CrawlerMod1.unity
     guid: 16a3845503f68f145b9ec98ef9512593
-  m_configObjects: {}
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 854f55749ca038e49a105947c229b6f2,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4d515be2f789ed04186f8d865afbac3f,
+      type: 2}
